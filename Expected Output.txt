@@ -1,0 +1,13 @@
+>java TestLabs
+
+Lab 6 - Bronze
+Name: Apple Calories: 120 Cost: 2
+Name: Banana Calories: 180 Cost: 1
+
+Lab 6 - Silver
+Name: Apple Calories: 120 Cost: 2 Ingredients: Apple Junk, Redness
+Name: Banana Calories: 180 Cost: 1 Ingredients: Banana Mush, Banana Skin, Yellow Food Coloring
+
+Lab 6 - Gold
+Name: Apple Calories: 120 Cost: 2 Ingredients: Apple Junk, Redness
+Name: Banana Calories: 180 Cost: 1 Ingredients: Banana Mush, Banana Skin, Yellow Food Coloring

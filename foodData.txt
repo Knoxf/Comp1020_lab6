@@ -1,0 +1,2 @@
+Apple,120,2,2,Apple Junk,0.5,Redness,.5
+Banana,180,1,3,Banana Mush,.3,Banana Skin,.4,Yellow Food Coloring,.3
