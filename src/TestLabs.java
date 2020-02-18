@@ -135,6 +135,7 @@ public class TestLabs{
 
 	}
 
+	/*
 	public static void testLab3_Silver(){
 
 		System.out.println("++++++++++++++ Testing Lab3 - Silver +++++++++++++++++++");
@@ -375,4 +376,6 @@ public class TestLabs{
       
 
     }
+
+	 */
 }
